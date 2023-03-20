@@ -55,3 +55,13 @@ Temporary Items
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,visualstudiocode
 .idea
+
+# Others
+**/.ipynb_checkpoints/**
+**/__pycache__/**
+venv/
+env/
+.env
+solution/neo4j/data/databases/**
+solution/neo4j/data/transactions/**
+solution/neo4j/data/server_id

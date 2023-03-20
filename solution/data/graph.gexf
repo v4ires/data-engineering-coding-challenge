@@ -1,0 +1,2871 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-03-19">
+    <creator>NetworkX 3.0</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="3" title="attr" type="string" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="name" type="string" />
+      <attribute id="1" title="attr" type="string" />
+      <attribute id="2" title="pagerank" type="double" />
+    </attributes>
+    <nodes>
+      <node id="0" label="0">
+        <attvalues>
+          <attvalue for="0" value="Protein" />
+          <attvalue for="1" value="id: Q9Y261" />
+          <attvalue for="2" value="0.004039978060350574" />
+        </attvalues>
+      </node>
+      <node id="1" label="1">
+        <attvalues>
+          <attvalue for="0" value="FullName" />
+          <attvalue for="1" value="name: Hepatocyte nuclear factor 3-beta" />
+          <attvalue for="2" value="0.004123733917052904" />
+        </attvalues>
+      </node>
+      <node id="2" label="2">
+        <attvalues>
+          <attvalue for="0" value="Gene" />
+          <attvalue for="1" value="name: FOXA2" />
+          <attvalue for="2" value="0.004123733917052904" />
+        </attvalues>
+      </node>
+      <node id="3" label="3">
+        <attvalues>
+          <attvalue for="0" value="Gene" />
+          <attvalue for="1" value="name: HNF3B" />
+          <attvalue for="2" value="0.004123733917052904" />
+        </attvalues>
+      </node>
+      <node id="4" label="4">
+        <attvalues>
+          <attvalue for="0" value="Gene" />
+          <attvalue for="1" value="name: TCF3B" />
+          <attvalue for="2" value="0.004123733917052904" />
+        </attvalues>
+      </node>
+      <node id="5" label="5">
+        <attvalues>
+          <attvalue for="0" value="Organism" />
+          <attvalue for="1" value="name: Homo sapiens&#10;taxonomy_id: 9606" />
+          <attvalue for="2" value="0.004123733917052904" />
+        </attvalues>
+      </node>
+      <node id="6" label="6">
+        <attvalues>
+          <attvalue for="0" value="Reference" />
+          <attvalue for="1" value="type: journal article&#10;date: 2000&#10;name: Diabetologia&#10;volume: 43&#10;first: 121&#10;last: 124" />
+          <attvalue for="2" value="0.004123733917052904" />
+        </attvalues>
+      </node>
+      <node id="7" label="7">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Yamada S." />
+          <attvalue for="2" value="0.004259048257299126" />
+        </attvalues>
+      </node>
+      <node id="8" label="8">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Zhu Q." />
+          <attvalue for="2" value="0.004259048257299126" />
+        </attvalues>
+      </node>
+      <node id="9" label="9">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Aihara Y." />
+          <attvalue for="2" value="0.004259048257299126" />
+        </attvalues>
+      </node>
+      <node id="10" label="10">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Onda H." />
+          <attvalue for="2" value="0.004259048257299126" />
+        </attvalues>
+      </node>
+      <node id="11" label="11">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Zhang Z." />
+          <attvalue for="2" value="0.004259048257299126" />
+        </attvalues>
+      </node>
+      <node id="12" label="12">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Yu L." />
+          <attvalue for="2" value="0.004259048257299126" />
+        </attvalues>
+      </node>
+      <node id="13" label="13">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Jin L." />
+          <attvalue for="2" value="0.004259048257299126" />
+        </attvalues>
+      </node>
+      <node id="14" label="14">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Si Y.J." />
+          <attvalue for="2" value="0.004259048257299126" />
+        </attvalues>
+      </node>
+      <node id="15" label="15">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Nishigori H." />
+          <attvalue for="2" value="0.004259048257299126" />
+        </attvalues>
+      </node>
+      <node id="16" label="16">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Tomura H." />
+          <attvalue for="2" value="0.004259048257299126" />
+        </attvalues>
+      </node>
+      <node id="17" label="17">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Inoue I." />
+          <attvalue for="2" value="0.004259048257299126" />
+        </attvalues>
+      </node>
+      <node id="18" label="18">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Morikawa A." />
+          <attvalue for="2" value="0.004259048257299126" />
+        </attvalues>
+      </node>
+      <node id="19" label="19">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Yamagata K." />
+          <attvalue for="2" value="0.004259048257299126" />
+        </attvalues>
+      </node>
+      <node id="20" label="20">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Hanafusa T." />
+          <attvalue for="2" value="0.004259048257299126" />
+        </attvalues>
+      </node>
+      <node id="21" label="21">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Matsuzawa Y." />
+          <attvalue for="2" value="0.004259048257299126" />
+        </attvalues>
+      </node>
+      <node id="22" label="22">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Takeda J." />
+          <attvalue for="2" value="0.004259048257299126" />
+        </attvalues>
+      </node>
+      <node id="23" label="23">
+        <attvalues>
+          <attvalue for="0" value="Reference" />
+          <attvalue for="1" value="type: submission&#10;date: 1999-05&#10;db: EMBL/GenBank/DDBJ databases" />
+          <attvalue for="2" value="0.004123733917052904" />
+        </attvalues>
+      </node>
+      <node id="24" label="24">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Hinokio Y." />
+          <attvalue for="2" value="0.004429436188259111" />
+        </attvalues>
+      </node>
+      <node id="25" label="25">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Horikawa Y." />
+          <attvalue for="2" value="0.004429436188259111" />
+        </attvalues>
+      </node>
+      <node id="26" label="26">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Furuta H." />
+          <attvalue for="2" value="0.004429436188259111" />
+        </attvalues>
+      </node>
+      <node id="27" label="27">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Cox N.J." />
+          <attvalue for="2" value="0.004429436188259111" />
+        </attvalues>
+      </node>
+      <node id="28" label="28">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Iwasaki N." />
+          <attvalue for="2" value="0.004429436188259111" />
+        </attvalues>
+      </node>
+      <node id="29" label="29">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Honda M." />
+          <attvalue for="2" value="0.004429436188259111" />
+        </attvalues>
+      </node>
+      <node id="30" label="30">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Ogata M." />
+          <attvalue for="2" value="0.004429436188259111" />
+        </attvalues>
+      </node>
+      <node id="31" label="31">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Iwamoto Y." />
+          <attvalue for="2" value="0.004429436188259111" />
+        </attvalues>
+      </node>
+      <node id="32" label="32">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Bell G.I." />
+          <attvalue for="2" value="0.004429436188259111" />
+        </attvalues>
+      </node>
+      <node id="33" label="33">
+        <attvalues>
+          <attvalue for="0" value="Reference" />
+          <attvalue for="1" value="type: journal article&#10;date: 2000&#10;name: Hum. Hered.&#10;volume: 50&#10;first: 370&#10;last: 381" />
+          <attvalue for="2" value="0.004123733917052904" />
+        </attvalues>
+      </node>
+      <node id="34" label="34">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Navas M.A." />
+          <attvalue for="2" value="0.00462416525221338" />
+        </attvalues>
+      </node>
+      <node id="35" label="35">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Vaisse C." />
+          <attvalue for="2" value="0.00462416525221338" />
+        </attvalues>
+      </node>
+      <node id="36" label="36">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Boger S." />
+          <attvalue for="2" value="0.00462416525221338" />
+        </attvalues>
+      </node>
+      <node id="37" label="37">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Heimesaat M." />
+          <attvalue for="2" value="0.00462416525221338" />
+        </attvalues>
+      </node>
+      <node id="38" label="38">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Kollee L.A." />
+          <attvalue for="2" value="0.00462416525221338" />
+        </attvalues>
+      </node>
+      <node id="39" label="39">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Stoffel M." />
+          <attvalue for="2" value="0.00462416525221338" />
+        </attvalues>
+      </node>
+      <node id="40" label="40">
+        <attvalues>
+          <attvalue for="0" value="Reference" />
+          <attvalue for="1" value="type: journal article&#10;date: 2001&#10;name: Nature&#10;volume: 414&#10;first: 865&#10;last: 871" />
+          <attvalue for="2" value="0.004123733917052904" />
+        </attvalues>
+      </node>
+      <node id="41" label="41">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Deloukas P." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="42" label="42">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Matthews L.H." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="43" label="43">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Ashurst J.L." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="44" label="44">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Burton J." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="45" label="45">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Gilbert J.G.R." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="46" label="46">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Jones M." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="47" label="47">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Stavrides G." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="48" label="48">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Almeida J.P." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="49" label="49">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Babbage A.K." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="50" label="50">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Bagguley C.L." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="51" label="51">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Bailey J." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="52" label="52">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Barlow K.F." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="53" label="53">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Bates K.N." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="54" label="54">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Beard L.M." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="55" label="55">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Beare D.M." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="56" label="56">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Beasley O.P." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="57" label="57">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Bird C.P." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="58" label="58">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Blakey S.E." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="59" label="59">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Bridgeman A.M." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="60" label="60">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Brown A.J." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="61" label="61">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Buck D." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="62" label="62">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Burrill W.D." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="63" label="63">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Butler A.P." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="64" label="64">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Carder C." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="65" label="65">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Carter N.P." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="66" label="66">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Chapman J.C." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="67" label="67">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Clamp M." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="68" label="68">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Clark G." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="69" label="69">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Clark L.N." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="70" label="70">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Clark S.Y." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="71" label="71">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Clee C.M." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="72" label="72">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Clegg S." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="73" label="73">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Cobley V.E." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="74" label="74">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Collier R.E." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="75" label="75">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Connor R.E." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="76" label="76">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Corby N.R." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="77" label="77">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Coulson A." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="78" label="78">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Coville G.J." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="79" label="79">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Deadman R." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="80" label="80">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Dhami P.D." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="81" label="81">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Dunn M." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="82" label="82">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Ellington A.G." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="83" label="83">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Frankland J.A." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="84" label="84">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Fraser A." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="85" label="85">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: French L." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="86" label="86">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Garner P." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="87" label="87">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Grafham D.V." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="88" label="88">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Griffiths C." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="89" label="89">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Griffiths M.N.D." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="90" label="90">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Gwilliam R." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="91" label="91">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Hall R.E." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="92" label="92">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Hammond S." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="93" label="93">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Harley J.L." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="94" label="94">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Heath P.D." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="95" label="95">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Ho S." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="96" label="96">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Holden J.L." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="97" label="97">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Howden P.J." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="98" label="98">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Huckle E." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="99" label="99">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Hunt A.R." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="100" label="100">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Hunt S.E." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="101" label="101">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Jekosch K." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="102" label="102">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Johnson C.M." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="103" label="103">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Johnson D." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="104" label="104">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Kay M.P." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="105" label="105">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Kimberley A.M." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="106" label="106">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: King A." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="107" label="107">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Knights A." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="108" label="108">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Laird G.K." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="109" label="109">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Lawlor S." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="110" label="110">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Lehvaeslaiho M.H." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="111" label="111">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Leversha M.A." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="112" label="112">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Lloyd C." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="113" label="113">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Lloyd D.M." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="114" label="114">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Lovell J.D." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="115" label="115">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Marsh V.L." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="116" label="116">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Martin S.L." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="117" label="117">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: McConnachie L.J." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="118" label="118">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: McLay K." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="119" label="119">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: McMurray A.A." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="120" label="120">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Milne S.A." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="121" label="121">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Mistry D." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="122" label="122">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Moore M.J.F." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="123" label="123">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Mullikin J.C." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="124" label="124">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Nickerson T." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="125" label="125">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Oliver K." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="126" label="126">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Parker A." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="127" label="127">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Patel R." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="128" label="128">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Pearce T.A.V." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="129" label="129">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Peck A.I." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="130" label="130">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Phillimore B.J.C.T." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="131" label="131">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Prathalingam S.R." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="132" label="132">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Plumb R.W." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="133" label="133">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Ramsay H." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="134" label="134">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Rice C.M." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="135" label="135">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Ross M.T." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="136" label="136">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Scott C.E." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="137" label="137">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Sehra H.K." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="138" label="138">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Shownkeen R." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="139" label="139">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Sims S." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="140" label="140">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Skuce C.D." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="141" label="141">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Smith M.L." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="142" label="142">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Soderlund C." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="143" label="143">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Steward C.A." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="144" label="144">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Sulston J.E." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="145" label="145">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Swann R.M." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="146" label="146">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Sycamore N." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="147" label="147">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Taylor R." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="148" label="148">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Tee L." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="149" label="149">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Thomas D.W." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="150" label="150">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Thorpe A." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="151" label="151">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Tracey A." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="152" label="152">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Tromans A.C." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="153" label="153">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Vaudin M." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="154" label="154">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Wall M." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="155" label="155">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Wallis J.M." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="156" label="156">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Whitehead S.L." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="157" label="157">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Whittaker P." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="158" label="158">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Willey D.L." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="159" label="159">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Williams L." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="160" label="160">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Williams S.A." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="161" label="161">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Wilming L." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="162" label="162">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Wray P.W." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="163" label="163">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Hubbard T." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="164" label="164">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Durbin R.M." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="165" label="165">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Bentley D.R." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="166" label="166">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Beck S." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="167" label="167">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Rogers J." />
+          <attvalue for="2" value="0.00406757745524173" />
+        </attvalues>
+      </node>
+      <node id="168" label="168">
+        <attvalues>
+          <attvalue for="0" value="Reference" />
+          <attvalue for="1" value="type: journal article&#10;date: 2004&#10;name: Genome Res.&#10;volume: 14&#10;first: 2121&#10;last: 2127" />
+          <attvalue for="2" value="0.004123733917052904" />
+        </attvalues>
+      </node>
+      <node id="169" label="169">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: The MGC Project Team" />
+          <attvalue for="2" value="0.0075451012115274095" />
+        </attvalues>
+      </node>
+      <node id="170" label="170">
+        <attvalues>
+          <attvalue for="0" value="Reference" />
+          <attvalue for="1" value="type: journal article&#10;date: 2003&#10;name: Proc. Natl. Acad. Sci. U.S.A.&#10;volume: 100&#10;first: 11624&#10;last: 11629" />
+          <attvalue for="2" value="0.004123733917052904" />
+        </attvalues>
+      </node>
+      <node id="171" label="171">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Wolfrum C." />
+          <attvalue for="2" value="0.004916258848144783" />
+        </attvalues>
+      </node>
+      <node id="172" label="172">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Besser D." />
+          <attvalue for="2" value="0.004916258848144783" />
+        </attvalues>
+      </node>
+      <node id="173" label="173">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Luca E." />
+          <attvalue for="2" value="0.004916258848144783" />
+        </attvalues>
+      </node>
+      <node id="174" label="174">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Stoffel M." />
+          <attvalue for="2" value="0.004916258848144783" />
+        </attvalues>
+      </node>
+      <node id="175" label="175">
+        <attvalues>
+          <attvalue for="0" value="Reference" />
+          <attvalue for="1" value="type: journal article&#10;date: 2005&#10;name: J. Biol. Chem.&#10;volume: 280&#10;first: 16763&#10;last: 16771" />
+          <attvalue for="2" value="0.004123733917052904" />
+        </attvalues>
+      </node>
+      <node id="176" label="176">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Verschuur M." />
+          <attvalue for="2" value="0.004741002690585941" />
+        </attvalues>
+      </node>
+      <node id="177" label="177">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: de Jong M." />
+          <attvalue for="2" value="0.004741002690585941" />
+        </attvalues>
+      </node>
+      <node id="178" label="178">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Felida L." />
+          <attvalue for="2" value="0.004741002690585941" />
+        </attvalues>
+      </node>
+      <node id="179" label="179">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: de Maat M.P." />
+          <attvalue for="2" value="0.004741002690585941" />
+        </attvalues>
+      </node>
+      <node id="180" label="180">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Vos H.L." />
+          <attvalue for="2" value="0.004741002690585941" />
+        </attvalues>
+      </node>
+      <node id="181" label="181">
+        <attvalues>
+          <attvalue for="0" value="Reference" />
+          <attvalue for="1" value="type: journal article&#10;date: 2009&#10;name: Genome Biol.&#10;volume: 10&#10;first: R129.0&#10;last: R129.0" />
+          <attvalue for="2" value="0.004123733917052904" />
+        </attvalues>
+      </node>
+      <node id="182" label="182">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Motallebipour M." />
+          <attvalue for="2" value="0.0043904903754682575" />
+        </attvalues>
+      </node>
+      <node id="183" label="183">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Ameur A." />
+          <attvalue for="2" value="0.0043904903754682575" />
+        </attvalues>
+      </node>
+      <node id="184" label="184">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Reddy Bysani M.S." />
+          <attvalue for="2" value="0.0043904903754682575" />
+        </attvalues>
+      </node>
+      <node id="185" label="185">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Patra K." />
+          <attvalue for="2" value="0.0043904903754682575" />
+        </attvalues>
+      </node>
+      <node id="186" label="186">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Wallerman O." />
+          <attvalue for="2" value="0.0043904903754682575" />
+        </attvalues>
+      </node>
+      <node id="187" label="187">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Mangion J." />
+          <attvalue for="2" value="0.0043904903754682575" />
+        </attvalues>
+      </node>
+      <node id="188" label="188">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Barker M.A." />
+          <attvalue for="2" value="0.0043904903754682575" />
+        </attvalues>
+      </node>
+      <node id="189" label="189">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: McKernan K.J." />
+          <attvalue for="2" value="0.0043904903754682575" />
+        </attvalues>
+      </node>
+      <node id="190" label="190">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Komorowski J." />
+          <attvalue for="2" value="0.0043904903754682575" />
+        </attvalues>
+      </node>
+      <node id="191" label="191">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Wadelius C." />
+          <attvalue for="2" value="0.0043904903754682575" />
+        </attvalues>
+      </node>
+      <node id="192" label="192">
+        <attvalues>
+          <attvalue for="0" value="Reference" />
+          <attvalue for="1" value="type: journal article&#10;date: 2009&#10;name: J. Biol. Chem.&#10;volume: 284&#10;first: 19915&#10;last: 19926" />
+          <attvalue for="2" value="0.004123733917052904" />
+        </attvalues>
+      </node>
+      <node id="193" label="193">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Nock A." />
+          <attvalue for="2" value="0.004478118454247678" />
+        </attvalues>
+      </node>
+      <node id="194" label="194">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Ascano J.M." />
+          <attvalue for="2" value="0.004478118454247678" />
+        </attvalues>
+      </node>
+      <node id="195" label="195">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Jones T." />
+          <attvalue for="2" value="0.004478118454247678" />
+        </attvalues>
+      </node>
+      <node id="196" label="196">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Barrero M.J." />
+          <attvalue for="2" value="0.004478118454247678" />
+        </attvalues>
+      </node>
+      <node id="197" label="197">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Sugiyama N." />
+          <attvalue for="2" value="0.004478118454247678" />
+        </attvalues>
+      </node>
+      <node id="198" label="198">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Tomita M." />
+          <attvalue for="2" value="0.004478118454247678" />
+        </attvalues>
+      </node>
+      <node id="199" label="199">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Ishihama Y." />
+          <attvalue for="2" value="0.004478118454247678" />
+        </attvalues>
+      </node>
+      <node id="200" label="200">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Malik S." />
+          <attvalue for="2" value="0.004478118454247678" />
+        </attvalues>
+      </node>
+      <node id="201" label="201">
+        <attvalues>
+          <attvalue for="0" value="Reference" />
+          <attvalue for="1" value="type: journal article&#10;date: 2014&#10;name: J. Proteomics&#10;volume: 96&#10;first: 253&#10;last: 262" />
+          <attvalue for="2" value="0.004123733917052904" />
+        </attvalues>
+      </node>
+      <node id="202" label="202">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Bian Y." />
+          <attvalue for="2" value="0.0043904903754682575" />
+        </attvalues>
+      </node>
+      <node id="203" label="203">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Song C." />
+          <attvalue for="2" value="0.0043904903754682575" />
+        </attvalues>
+      </node>
+      <node id="204" label="204">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Cheng K." />
+          <attvalue for="2" value="0.0043904903754682575" />
+        </attvalues>
+      </node>
+      <node id="205" label="205">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Dong M." />
+          <attvalue for="2" value="0.0043904903754682575" />
+        </attvalues>
+      </node>
+      <node id="206" label="206">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Wang F." />
+          <attvalue for="2" value="0.0043904903754682575" />
+        </attvalues>
+      </node>
+      <node id="207" label="207">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Huang J." />
+          <attvalue for="2" value="0.0043904903754682575" />
+        </attvalues>
+      </node>
+      <node id="208" label="208">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Sun D." />
+          <attvalue for="2" value="0.0043904903754682575" />
+        </attvalues>
+      </node>
+      <node id="209" label="209">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Wang L." />
+          <attvalue for="2" value="0.0043904903754682575" />
+        </attvalues>
+      </node>
+      <node id="210" label="210">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Ye M." />
+          <attvalue for="2" value="0.0043904903754682575" />
+        </attvalues>
+      </node>
+      <node id="211" label="211">
+        <attvalues>
+          <attvalue for="0" value="Author" />
+          <attvalue for="1" value="name: Zou H." />
+          <attvalue for="2" value="0.0043904903754682575" />
+        </attvalues>
+      </node>
+      <node id="212" label="212">
+        <attvalues>
+          <attvalue for="0" value="Feature" />
+          <attvalue for="1" value="type: chain&#10;id: PRO_0000091795&#10;description: Hepatocyte nuclear factor 3-beta" />
+          <attvalue for="2" value="0.004123733917052904" />
+        </attvalues>
+      </node>
+      <node id="213" label="213">
+        <attvalues>
+          <attvalue for="0" value="Feature" />
+          <attvalue for="1" value="type: DNA-binding region&#10;description: Fork-head&#10;evidence: 4" />
+          <attvalue for="2" value="0.004123733917052904" />
+        </attvalues>
+      </node>
+      <node id="214" label="214">
+        <attvalues>
+          <attvalue for="0" value="Feature" />
+          <attvalue for="1" value="type: region of interest&#10;description: Transactivation domain 1&#10;evidence: 1" />
+          <attvalue for="2" value="0.004123733917052904" />
+        </attvalues>
+      </node>
+      <node id="215" label="215">
+        <attvalues>
+          <attvalue for="0" value="Feature" />
+          <attvalue for="1" value="type: region of interest&#10;description: Disordered&#10;evidence: 5" />
+          <attvalue for="2" value="0.004123733917052904" />
+        </attvalues>
+      </node>
+      <node id="216" label="216">
+        <attvalues>
+          <attvalue for="0" value="Feature" />
+          <attvalue for="1" value="type: region of interest&#10;description: Transactivation domain 2&#10;evidence: 1" />
+          <attvalue for="2" value="0.004123733917052904" />
+        </attvalues>
+      </node>
+      <node id="217" label="217">
+        <attvalues>
+          <attvalue for="0" value="Feature" />
+          <attvalue for="1" value="type: short sequence motif&#10;description: Nuclear localization signal&#10;evidence: 1" />
+          <attvalue for="2" value="0.004123733917052904" />
+        </attvalues>
+      </node>
+      <node id="218" label="218">
+        <attvalues>
+          <attvalue for="0" value="Feature" />
+          <attvalue for="1" value="type: modified residue&#10;description: Phosphothreonine&#10;evidence: 2" />
+          <attvalue for="2" value="0.004123733917052904" />
+        </attvalues>
+      </node>
+      <node id="219" label="219">
+        <attvalues>
+          <attvalue for="0" value="Feature" />
+          <attvalue for="1" value="type: modified residue&#10;description: Phosphoserine&#10;evidence: 2" />
+          <attvalue for="2" value="0.004123733917052904" />
+        </attvalues>
+      </node>
+      <node id="220" label="220">
+        <attvalues>
+          <attvalue for="0" value="Feature" />
+          <attvalue for="1" value="type: modified residue&#10;description: Phosphoserine&#10;evidence: 2" />
+          <attvalue for="2" value="0.004123733917052904" />
+        </attvalues>
+      </node>
+      <node id="221" label="221">
+        <attvalues>
+          <attvalue for="0" value="Feature" />
+          <attvalue for="1" value="type: modified residue&#10;description: Phosphothreonine&#10;evidence: 3" />
+          <attvalue for="2" value="0.004123733917052904" />
+        </attvalues>
+      </node>
+      <node id="222" label="222">
+        <attvalues>
+          <attvalue for="0" value="Feature" />
+          <attvalue for="1" value="type: modified residue&#10;description: Phosphoserine&#10;evidence: 12" />
+          <attvalue for="2" value="0.004123733917052904" />
+        </attvalues>
+      </node>
+      <node id="223" label="223">
+        <attvalues>
+          <attvalue for="0" value="Feature" />
+          <attvalue for="1" value="type: modified residue&#10;description: Phosphoserine&#10;evidence: 2" />
+          <attvalue for="2" value="0.004123733917052904" />
+        </attvalues>
+      </node>
+      <node id="224" label="224">
+        <attvalues>
+          <attvalue for="0" value="Feature" />
+          <attvalue for="1" value="type: modified residue&#10;description: Phosphoserine&#10;evidence: 2" />
+          <attvalue for="2" value="0.004123733917052904" />
+        </attvalues>
+      </node>
+      <node id="225" label="225">
+        <attvalues>
+          <attvalue for="0" value="Feature" />
+          <attvalue for="1" value="type: modified residue&#10;description: Phosphoserine&#10;evidence: 12" />
+          <attvalue for="2" value="0.004123733917052904" />
+        </attvalues>
+      </node>
+      <node id="226" label="226">
+        <attvalues>
+          <attvalue for="0" value="Feature" />
+          <attvalue for="1" value="type: modified residue&#10;description: Phosphoserine&#10;evidence: 2" />
+          <attvalue for="2" value="0.004123733917052904" />
+        </attvalues>
+      </node>
+      <node id="227" label="227">
+        <attvalues>
+          <attvalue for="0" value="Feature" />
+          <attvalue for="1" value="type: modified residue&#10;description: Phosphoserine&#10;evidence: 2" />
+          <attvalue for="2" value="0.004123733917052904" />
+        </attvalues>
+      </node>
+      <node id="228" label="228">
+        <attvalues>
+          <attvalue for="0" value="Feature" />
+          <attvalue for="1" value="type: splice variant&#10;id: VSP_041212&#10;description: In isoform 2.&#10;evidence: 10" />
+          <attvalue for="2" value="0.004123733917052904" />
+        </attvalues>
+      </node>
+      <node id="229" label="229">
+        <attvalues>
+          <attvalue for="0" value="Feature" />
+          <attvalue for="1" value="type: sequence variant&#10;id: VAR_008858&#10;description: In Japanese subjects with maturity-onset diabetes of the young; unknown pathological significance; dbSNP:rs199796119.&#10;evidence: 6" />
+          <attvalue for="2" value="0.004123733917052904" />
+        </attvalues>
+      </node>
+      <node id="230" label="230">
+        <attvalues>
+          <attvalue for="0" value="Feature" />
+          <attvalue for="1" value="type: helix&#10;evidence: 13" />
+          <attvalue for="2" value="0.004123733917052904" />
+        </attvalues>
+      </node>
+      <node id="231" label="231">
+        <attvalues>
+          <attvalue for="0" value="Feature" />
+          <attvalue for="1" value="type: strand&#10;evidence: 13" />
+          <attvalue for="2" value="0.004123733917052904" />
+        </attvalues>
+      </node>
+      <node id="232" label="232">
+        <attvalues>
+          <attvalue for="0" value="Feature" />
+          <attvalue for="1" value="type: helix&#10;evidence: 13" />
+          <attvalue for="2" value="0.004123733917052904" />
+        </attvalues>
+      </node>
+      <node id="233" label="233">
+        <attvalues>
+          <attvalue for="0" value="Feature" />
+          <attvalue for="1" value="type: helix&#10;evidence: 13" />
+          <attvalue for="2" value="0.004123733917052904" />
+        </attvalues>
+      </node>
+      <node id="234" label="234">
+        <attvalues>
+          <attvalue for="0" value="Feature" />
+          <attvalue for="1" value="type: helix&#10;evidence: 13" />
+          <attvalue for="2" value="0.004123733917052904" />
+        </attvalues>
+      </node>
+      <node id="235" label="235">
+        <attvalues>
+          <attvalue for="0" value="Feature" />
+          <attvalue for="1" value="type: strand&#10;evidence: 13" />
+          <attvalue for="2" value="0.004123733917052904" />
+        </attvalues>
+      </node>
+      <node id="236" label="236">
+        <attvalues>
+          <attvalue for="0" value="Feature" />
+          <attvalue for="1" value="type: strand&#10;evidence: 13" />
+          <attvalue for="2" value="0.004123733917052904" />
+        </attvalues>
+      </node>
+      <node id="237" label="237">
+        <attvalues>
+          <attvalue for="0" value="Feature" />
+          <attvalue for="1" value="type: strand&#10;evidence: 13" />
+          <attvalue for="2" value="0.004123733917052904" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="0" target="1" id="0">
+        <attvalues>
+          <attvalue for="3" value="HAS_FULL_NAME" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="2" id="1">
+        <attvalues>
+          <attvalue for="3" value="FROM_GENE&#10;status: primary" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="3" id="2">
+        <attvalues>
+          <attvalue for="3" value="FROM_GENE&#10;status: synonym" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="4" id="3">
+        <attvalues>
+          <attvalue for="3" value="FROM_GENE&#10;status: synonym" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="5" id="4">
+        <attvalues>
+          <attvalue for="3" value="IN_ORGANISM" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="6" id="5">
+        <attvalues>
+          <attvalue for="3" value="HAS_REFERENCE" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="23" id="6">
+        <attvalues>
+          <attvalue for="3" value="HAS_REFERENCE" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="33" id="7">
+        <attvalues>
+          <attvalue for="3" value="HAS_REFERENCE" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="40" id="8">
+        <attvalues>
+          <attvalue for="3" value="HAS_REFERENCE" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="168" id="9">
+        <attvalues>
+          <attvalue for="3" value="HAS_REFERENCE" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="170" id="10">
+        <attvalues>
+          <attvalue for="3" value="HAS_REFERENCE" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="175" id="11">
+        <attvalues>
+          <attvalue for="3" value="HAS_REFERENCE" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="181" id="12">
+        <attvalues>
+          <attvalue for="3" value="HAS_REFERENCE" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="192" id="13">
+        <attvalues>
+          <attvalue for="3" value="HAS_REFERENCE" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="201" id="14">
+        <attvalues>
+          <attvalue for="3" value="HAS_REFERENCE" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="212" id="15">
+        <attvalues>
+          <attvalue for="3" value="HAS_REFERENCE" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="213" id="16">
+        <attvalues>
+          <attvalue for="3" value="HAS_REFERENCE" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="214" id="17">
+        <attvalues>
+          <attvalue for="3" value="HAS_REFERENCE" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="215" id="18">
+        <attvalues>
+          <attvalue for="3" value="HAS_REFERENCE" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="216" id="19">
+        <attvalues>
+          <attvalue for="3" value="HAS_REFERENCE" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="217" id="20">
+        <attvalues>
+          <attvalue for="3" value="HAS_REFERENCE" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="218" id="21">
+        <attvalues>
+          <attvalue for="3" value="HAS_REFERENCE" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="219" id="22">
+        <attvalues>
+          <attvalue for="3" value="HAS_REFERENCE" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="220" id="23">
+        <attvalues>
+          <attvalue for="3" value="HAS_REFERENCE" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="221" id="24">
+        <attvalues>
+          <attvalue for="3" value="HAS_REFERENCE" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="222" id="25">
+        <attvalues>
+          <attvalue for="3" value="HAS_REFERENCE" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="223" id="26">
+        <attvalues>
+          <attvalue for="3" value="HAS_REFERENCE" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="224" id="27">
+        <attvalues>
+          <attvalue for="3" value="HAS_REFERENCE" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="225" id="28">
+        <attvalues>
+          <attvalue for="3" value="HAS_REFERENCE" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="226" id="29">
+        <attvalues>
+          <attvalue for="3" value="HAS_REFERENCE" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="227" id="30">
+        <attvalues>
+          <attvalue for="3" value="HAS_REFERENCE" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="228" id="31">
+        <attvalues>
+          <attvalue for="3" value="HAS_REFERENCE" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="229" id="32">
+        <attvalues>
+          <attvalue for="3" value="HAS_REFERENCE" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="230" id="33">
+        <attvalues>
+          <attvalue for="3" value="HAS_REFERENCE" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="231" id="34">
+        <attvalues>
+          <attvalue for="3" value="HAS_REFERENCE" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="232" id="35">
+        <attvalues>
+          <attvalue for="3" value="HAS_REFERENCE" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="233" id="36">
+        <attvalues>
+          <attvalue for="3" value="HAS_REFERENCE" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="234" id="37">
+        <attvalues>
+          <attvalue for="3" value="HAS_REFERENCE" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="235" id="38">
+        <attvalues>
+          <attvalue for="3" value="HAS_REFERENCE" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="236" id="39">
+        <attvalues>
+          <attvalue for="3" value="HAS_REFERENCE" />
+        </attvalues>
+      </edge>
+      <edge source="0" target="237" id="40">
+        <attvalues>
+          <attvalue for="3" value="HAS_REFERENCE" />
+        </attvalues>
+      </edge>
+      <edge source="6" target="7" id="41">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="6" target="8" id="42">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="6" target="9" id="43">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="6" target="10" id="44">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="6" target="11" id="45">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="6" target="12" id="46">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="6" target="13" id="47">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="6" target="14" id="48">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="6" target="15" id="49">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="6" target="16" id="50">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="6" target="17" id="51">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="6" target="18" id="52">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="6" target="19" id="53">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="6" target="20" id="54">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="6" target="21" id="55">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="6" target="22" id="56">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="23" target="24" id="57">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="23" target="25" id="58">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="23" target="26" id="59">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="23" target="27" id="60">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="23" target="28" id="61">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="23" target="29" id="62">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="23" target="30" id="63">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="23" target="31" id="64">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="23" target="32" id="65">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="33" target="34" id="66">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="33" target="35" id="67">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="33" target="36" id="68">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="33" target="37" id="69">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="33" target="38" id="70">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="33" target="39" id="71">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="41" id="72">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="42" id="73">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="43" id="74">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="44" id="75">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="45" id="76">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="46" id="77">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="47" id="78">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="48" id="79">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="49" id="80">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="50" id="81">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="51" id="82">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="52" id="83">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="53" id="84">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="54" id="85">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="55" id="86">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="56" id="87">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="57" id="88">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="58" id="89">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="59" id="90">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="60" id="91">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="61" id="92">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="62" id="93">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="63" id="94">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="64" id="95">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="65" id="96">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="66" id="97">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="67" id="98">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="68" id="99">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="69" id="100">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="70" id="101">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="71" id="102">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="72" id="103">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="73" id="104">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="74" id="105">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="75" id="106">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="76" id="107">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="77" id="108">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="78" id="109">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="79" id="110">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="80" id="111">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="81" id="112">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="82" id="113">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="83" id="114">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="84" id="115">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="85" id="116">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="86" id="117">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="87" id="118">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="88" id="119">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="89" id="120">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="90" id="121">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="91" id="122">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="92" id="123">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="93" id="124">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="94" id="125">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="95" id="126">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="96" id="127">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="97" id="128">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="98" id="129">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="99" id="130">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="100" id="131">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="101" id="132">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="102" id="133">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="103" id="134">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="104" id="135">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="105" id="136">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="106" id="137">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="107" id="138">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="108" id="139">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="109" id="140">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="110" id="141">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="111" id="142">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="112" id="143">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="113" id="144">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="114" id="145">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="115" id="146">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="116" id="147">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="117" id="148">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="118" id="149">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="119" id="150">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="120" id="151">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="121" id="152">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="122" id="153">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="123" id="154">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="124" id="155">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="125" id="156">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="126" id="157">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="127" id="158">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="128" id="159">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="129" id="160">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="130" id="161">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="131" id="162">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="132" id="163">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="133" id="164">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="134" id="165">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="135" id="166">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="136" id="167">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="137" id="168">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="138" id="169">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="139" id="170">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="140" id="171">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="141" id="172">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="142" id="173">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="143" id="174">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="144" id="175">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="145" id="176">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="146" id="177">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="147" id="178">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="148" id="179">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="149" id="180">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="150" id="181">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="151" id="182">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="152" id="183">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="153" id="184">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="154" id="185">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="155" id="186">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="156" id="187">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="157" id="188">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="158" id="189">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="159" id="190">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="160" id="191">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="161" id="192">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="162" id="193">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="163" id="194">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="164" id="195">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="165" id="196">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="166" id="197">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="40" target="167" id="198">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="168" target="169" id="199">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="170" target="171" id="200">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="170" target="172" id="201">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="170" target="173" id="202">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="170" target="174" id="203">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="175" target="176" id="204">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="175" target="177" id="205">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="175" target="178" id="206">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="175" target="179" id="207">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="175" target="180" id="208">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="181" target="182" id="209">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="181" target="183" id="210">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="181" target="184" id="211">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="181" target="185" id="212">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="181" target="186" id="213">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="181" target="187" id="214">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="181" target="188" id="215">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="181" target="189" id="216">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="181" target="190" id="217">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="181" target="191" id="218">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="192" target="193" id="219">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="192" target="194" id="220">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="192" target="195" id="221">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="192" target="196" id="222">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="192" target="197" id="223">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="192" target="198" id="224">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="192" target="199" id="225">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="192" target="200" id="226">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="201" target="202" id="227">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="201" target="203" id="228">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="201" target="204" id="229">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="201" target="205" id="230">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="201" target="206" id="231">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="201" target="207" id="232">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="201" target="208" id="233">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="201" target="209" id="234">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="201" target="210" id="235">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+      <edge source="201" target="211" id="236">
+        <attvalues>
+          <attvalue for="3" value="HAS_AUTHOR" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
